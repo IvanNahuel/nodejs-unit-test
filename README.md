@@ -17,7 +17,8 @@ o
 ```
 npm i
 ```
-con esto conseguiremos que de nos bajen los modulos de node
+con esto conseguiremos que se nos bajen los modulos de node
+
 4- ya con los modulos de node instalados para ejecutar los test, pondremos en la terminal 
 ```
 npm test
